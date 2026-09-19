@@ -5,4 +5,4 @@
 
 Official implementation of the paper **Neural Additive Model based framework for interpretable glaucoma screening**, presented at the 34th International Conference on Information Systems Development (ISD 2026, Prague, Czechia).
 
-The paper is available at the following link: https://isd2026.ksi.fit.cvut.cz/submissions/paper_63.pdf
+The paper is available at the following [link](https://aisel.aisnet.org/isd2014/proceedings2026/datascience/49/)
